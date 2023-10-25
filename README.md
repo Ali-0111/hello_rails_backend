@@ -22,7 +22,7 @@
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 hello-react_backend <a name="about-project"></a>
-This is the react back end of the project. the front end is available [here](https://github.com/Ali-0111/hello-rails-back-end/tree/build-api)
+This is the react back end of the project. the front end is available [here](https://github.com/Ali-0111/hello-react-front-end)
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -85,7 +85,8 @@ In order to run this project you need:
 To run the project, run
 
 ```
-npm run dev
+bundle install
+rails server
 ```
 
 
